@@ -1,6 +1,3 @@
-<!-- Program : assignment 4 -->
-<!-- Name: Nicholas Adams -->
-<!-- Date: 10/9/23 -->
 <!-- Purpose: A website that inputs user information, calculates it, and then displays it. -->
 <html>
     <head>  
